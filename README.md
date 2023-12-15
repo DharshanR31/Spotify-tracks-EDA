@@ -1,4 +1,4 @@
-# Spotify_tracks_EDA
+# Spotify_tracks
 Spotify track EDA
 
 # Introduction
